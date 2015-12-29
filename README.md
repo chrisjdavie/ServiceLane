@@ -11,4 +11,5 @@ There is a clever O(T + N) solution, but it's a lot more code. Don't think it wa
 ## Exectuion
 
 $ cd ServiceLane/
+
 $ python src/FirstGo.py < data/input.txt
